@@ -1,1 +1,0 @@
-### Head First Android Development
